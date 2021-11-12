@@ -5,4 +5,6 @@ As additional project for the "Reti Logiche" course I have created with Legos a 
 
 The Lego instructions are available [here](./LDD_files/Instructions), while the Lego Digital Designer 3D models can be found [here](./LDD_files/Models). The Arduino software developed is organized in the dedicated folders: [remote](./IRremote), [car](/IRlegocar).
 
-For more details about the system configuration check the [video tutorial](https://youtu.be/qfQm9lA7alI).
+## Demo video
+
+To see the prototype in action and for more details about the system configuration watch the [video tutorial](https://youtu.be/qfQm9lA7alI).
